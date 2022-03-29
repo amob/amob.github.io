@@ -13,9 +13,9 @@ baseurl: ""
 # site social media and other links
 links:
   email: anna.obrien@unh.edu
-  google-scholar: scholar.google.com/citations?user=QZG3zswAAAAJ&hl=en&oi=ao
-  github: github.com/amob/amob.github.io
-#  twitter: anna_mobrien
+  google-scholar: scholar.google.com/citations?user=QZG3zswAAAAJ&hl=en
+  github: amob
+  twitter: anna_mobrien
 #  instagram: YourLabHandle
 #  youtube: YourLabChannel
 
