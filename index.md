@@ -4,7 +4,7 @@ title: Home
 
 # Host-microbiome interactions under stress
 
-We are the O'Brien lab.
+website is UNDER CONSTRUCTION. We seek to understand how evolution and ecology in host-microbiome interactions modify stress tolerance, and how stressors modify evolution and ecology of host-microbiome interactions
 
 <!-- 
 {%
