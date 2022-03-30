@@ -1,10 +1,6 @@
 ---
 title: Whose trait is it anyways?
 tags: host-microbiome, extended phenotype, simulations, theory
-<!-- 
-author: Upton O. Goode
-member: upton-goode
- -->
 ---
 
 We keep finding ways beneficial microbes affect traits of the organisms on which they live. 

@@ -16,10 +16,10 @@ More interesting yet, microbes shift the genetic variation and covariation betwe
   include gallery.html
   style="square"
 
-  image1="images/tepoztlan teosinte.png"
+  image1="images/tepoztlan teosinte.jpg"
   tooltip1="Teosinte growing in a low elevation site"
 
-  image2="images/MC teosinte.png"
+  image2="images/MC teosinte.jpg"
   tooltip2="Teosinte growing in a high elevation site"
 
 %}
