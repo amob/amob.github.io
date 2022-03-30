@@ -1,7 +1,6 @@
 ---
 title: Contaminants from human activities are ecological stressors
 tags:
-  - biology
   - toxicology
   - microplastics
 ---
@@ -27,11 +26,9 @@ Check it out at [Environmental Research](http://doi.org/10.1016/j.envres.2021.11
   style="square"
 
   image1="images/Duckweed in plate.png"
-  link1="https://nasa.gov/"
   tooltip1="Duckweed growing in experimental plate"
 
   image2="images/tire particles zoom.png"
-  link2="https://nasa.gov/"
   tooltip2="Zoom image of tire particles"
 
 %}
