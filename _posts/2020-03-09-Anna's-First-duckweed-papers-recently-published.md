@@ -23,7 +23,7 @@ Co-occurring winter stressors reduce duckweed survival and growth, as well as be
   include gallery.html
   style="square"
 
-  image1="images/AmJBotResilience__bztpicfig.pdf"
+  image1="images/AmJBotResilience__bztpicfig.png"
   tooltip1="Example duckweed replicates of each experimental treatment"
 
 %}
