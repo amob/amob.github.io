@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: The O'Brien Lab
 description: website is UNDER CONSTRUCTION. We seek to understand how evolution and ecology in host-microbiome interactions modify stress tolerance, and how stressors modify evolution and ecology of host-microbiome interactions
-logo: images/logo.svg
+logo: images/duckweedlogo.png
 header: images/Yellow Creek Duckweed.jpg
 footer: images/Yellow Creek Duckweed.jpg
 header-dark: false
@@ -23,11 +23,18 @@ links:
 
 # automatic citations
 auto-cite:
+#  plugins:
+#    - name: sources
+#      input:
+#        - ../_data/sources.yaml
+#  output: ../_data/citations.yaml
   plugins:
-    - name: sources
+    - name: orcid
       input:
-        - ../_data/sources.yaml
+        - ../_data/orcid.yaml
   output: ../_data/citations.yaml
+
+
 
 # default front matter parameters for markdown files
 defaults:

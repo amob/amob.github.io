@@ -7,9 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Molecular, Cellular, and Biomedical Sciences](https://colsa.unh.edu/molecular-cellular-biomedical-sciences), in the University of New Hampshire [College of Life and Agricultural Sciences](https://colsa.unh.edu/).
+We are located in Rudman Hall.
+<br>
+<br>
+Contact Dr. O'Brien: anna.obrien[at]unh.edu
+<br>
+<br>
 
+<!-- 
 {%
   include link.html
   type="email"
@@ -19,6 +25,8 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   link="scrooge@mcduck.com"
   style="button"
 %}
+ -->
+<!-- 
 {%
   include link.html
   type="phone"
@@ -28,13 +36,14 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   link="+1-555-867-5309"
   style="button"
 %}
+ -->
 {%
   include link.html
   type="address"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Rudman+Hall/@43.1356331,-70.9354109,15z/data=!4m5!3m4!1s0x0:0xe442e82872f3b596!8m2!3d43.1357756!4d-70.9357484"
   style="button"
 %}
 {:.center}
@@ -43,23 +52,24 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Find us:
+323 Rudman Hall
+46 College Rd
+Durham, NH, 03284
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  caption="Caption of photo"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="Department of Metaphor"
+  caption="More caption maybe this is building photo"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
