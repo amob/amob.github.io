@@ -5,8 +5,9 @@ title: Home
 # Host-microbiome interactions under stress
 
 This website is UNDER CONSTRUCTION. 
-We seek to understand how evolution and ecology in host-microbiome interactions modify stress tolerance, and how stressors modify evolution and ecology of host-microbiome interactions
-
+How does the environment shape the outcome of adaptation in species interactions? 
+How do species interactions shape adaptation to stressful environments? 
+We study the interplay of stressors and microbiomes in shaping plant local adaptation and phenotypes.
 <!-- 
 {%
   include link.html
@@ -30,7 +31,7 @@ We seek to understand how evolution and ecology in host-microbiome interactions 
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/Yellow Creek excerpt.jpg" %}
+{% include banner.html image="images/Yellow Creek excerpt.png" %}
 
 {% include section.html %}
 
@@ -72,7 +73,7 @@ New projects getting started.
 
 {%
   include feature.html
-  image="images/HighPark Duckweed.jpg"
+  image="images/Putah Creek Tangled Bank Duckweed.jpg"
   link="resources"
   title="Resources for lab members"
   flip=true
@@ -94,7 +95,7 @@ See our laboratory agreement
 
 {%
   include feature.html
-  image="images/HighPark Duckweed.jpg"
+  image="images/cyanobacteria-on-lemna-frond-underside.jpg"
   link="team"
   title="Our Team"
   text=text
