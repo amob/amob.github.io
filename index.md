@@ -4,7 +4,8 @@ title: Home
 
 # Host-microbiome interactions under stress
 
-website is UNDER CONSTRUCTION. We seek to understand how evolution and ecology in host-microbiome interactions modify stress tolerance, and how stressors modify evolution and ecology of host-microbiome interactions
+This website is UNDER CONSTRUCTION. 
+We seek to understand how evolution and ecology in host-microbiome interactions modify stress tolerance, and how stressors modify evolution and ecology of host-microbiome interactions
 
 <!-- 
 {%
@@ -29,7 +30,7 @@ website is UNDER CONSTRUCTION. We seek to understand how evolution and ecology i
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/Yellow Creek Duckweed.jpg" %}
+{% include banner.html image="images/Yellow Creek excerpt.jpg" %}
 
 {% include section.html %}
 
@@ -40,7 +41,7 @@ New lab new duckweed collections.
 
 {%
   include link.html
-  link="research"
+  link="publications"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -51,8 +52,8 @@ New lab new duckweed collections.
 {%
   include feature.html
   image="images/HighPark Duckweed.jpg"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
@@ -93,7 +94,7 @@ See our laboratory agreement
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/HighPark Duckweed.jpg"
   link="team"
   title="Our Team"
   text=text
