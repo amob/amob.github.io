@@ -38,7 +38,7 @@ We study the interplay of stressors and microbiomes in shaping plant local adapt
 # Highlights
 
 {% capture text %}
-New lab new duckweed collections.
+Browse our research publications.
 
 {%
   include link.html
@@ -59,12 +59,12 @@ New lab new duckweed collections.
 %}
 
 {% capture text %}
-New projects getting started. 
+Check out what has been happening 
 
 {%
   include link.html
-  link="tools"
-  text="See our repos on Github"
+  link="blog"
+  text="Browse our recent posts"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -74,14 +74,15 @@ New projects getting started.
 {%
   include feature.html
   image="images/Putah Creek Tangled Bank Duckweed.jpg"
-  link="resources"
-  title="Resources for lab members"
+  link="blog"
+  title="Browse our recent posts"
   flip=true
   text=text
 %}
 
+
 {% capture text %}
-See our laboratory agreement
+We are a new and growing team.
 
 {%
   include link.html
@@ -101,4 +102,3 @@ See our laboratory agreement
   text=text
 %}
 
-Team members
