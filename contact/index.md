@@ -58,6 +58,7 @@ Find us:
 Durham, NH, 03284
 {:.center}
 
+<!-- 
 {% capture col1 %}
 {%
   include figure.html
@@ -73,3 +74,4 @@ Durham, NH, 03284
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+ -->

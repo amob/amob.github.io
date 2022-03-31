@@ -1,5 +1,5 @@
 - id: doi:10.1101/2022.02.10.479958
-  image: "images/HighPark Duckweed.jpg"
+  image: images/HighPark Duckweed.jpg
   date: 2022-2-11
   tags:
     - preprint
@@ -19,7 +19,7 @@
     - opinion
 
 - id: doi:10.1016/j.envres.2021.111727
-  image: "images/Duckweed in plate.jpg"
+  image: images/Duckweed in plate.jpg
   date: 2022-1-1
   tags:
     - microplastics
@@ -108,11 +108,28 @@
       link: https://doi.org/10.1111/evo.13857
 
 - id: doi:10.1086/700118
-  image: "images/MtRainier.jpg"
+  image: "images/MtRainier cushion plants.jpg"
   date: 2018-10-31
   tags:
     - mutualism
     - co-adaptation
+    - stress
+
+- id: doi:10.1371/journal.pone.0127630
+#  image: "images/MtRainier cushion plants.jpg"
+  date: 2015-05-28
+  tags:
+    - plants and microbes
+
+- id: doi:10.1600/036364414X680816
+#  image: "images/MtRainier cushion plants.jpg"
+  date: 2014-06-1
+
+- id: doi:10.1007/s11252-012-0250-7
+#  image: "images/MtRainier cushion plants.jpg"
+  date: 2012-07-12
+  tags:
+    - urban
     - stress
 
 #- id: doi:10.1016/j.csbj.2020.05.017
