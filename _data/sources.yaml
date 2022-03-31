@@ -5,13 +5,11 @@
     - preprint
 
 - id: doi:10.1021/acs.est.1c03922
-#  image: "images/HighPark Duckweed.jpg"
   date: 2022-3-19
   tags:
     - nanoplastics
 
 - id: doi:10.7554/eLife.76105
-#  image: "images/HighPark Duckweed.jpg"
   date: 2022-1-21
   tags:
     - adaptation
@@ -26,44 +24,37 @@
     - plants and microbes
 
 - id: doi:10.1002/ajb2.1743
-#  image: "images/HighPark Duckweed.jpg"
   date: 2021-10-16
   tags:
     - plants and microbes
     - microbial influence on traits
 
 - id: doi:10.1038/s41564-021-00957-1
-#  image: "images/HighPark Duckweed.jpg"
   date: 2021-8-18
   tags:
     - opinion
    
 - id: doi:10.1021/acsestwater.1c00090
-#  image: "images/HighPark Duckweed.jpg"
   date: 2021-6-17
   tags:
     - nanoplastics
    
 - id: doi:10.1002/etc.5140
-#  image: "images/HighPark Duckweed.jpg"
   date: 2021-6-14
   tags:
     - microplastics
 
 - id: doi:10.1098/rspb.2020.2483
-#  image: "images/HighPark Duckweed.jpg"
   date: 2021-1-13
   tags:
     - host-microbiome
 
 - id: doi:10.1101/2021.04.20.440703 
-#  image: "images/HighPark Duckweed.jpg"
-  date: 2021-4-02
+  date: 2021-4-2
   tags:
     - plant-rhizosphere
    
 - id: doi:10.1126/science.abb7222
-#  image: "images/HighPark Duckweed.jpg"
   date: 2020-10-23
   tags:
     - plants and microbes
@@ -71,7 +62,7 @@
 
 - id: doi:10.1007/s00248-019-01452-1
   image: https://amob.github.io/images/Yellow Creek Duckweed.jpg
-  date: 2020-3-02
+  date: 2020-3-2
   tags:
     - plants and microbes
     - stress
@@ -85,13 +76,11 @@
     - salt
 
 - id: doi:10.1021/acs.est.9b07040
-#  image: "images/Yellow Creek duckweed view 2.jpg"
   date: 2020-1-27
   tags:
     - nanoplastics
 
 - id: doi:10.1111/mec.15059
-#  image: "images/HighPark Duckweed.jpg"
   date: 2019-4-10
   tags:
     - opinion
@@ -99,7 +88,7 @@
 
 - id: doi:10.1111/evo.13818
   image: https://amob.github.io/images/evo.v73.11.cover.gif
-  date: 2019-8-07
+  date: 2019-8-7
   tags:
     - plant-rhizosphere
     - microbial influence on traits
@@ -116,17 +105,14 @@
     - stress
 
 - id: doi:10.1371/journal.pone.0127630
-#  image: "images/MtRainier cushion plants.jpg"
   date: 2015-5-28
   tags:
     - plants and microbes
 
 - id: doi:10.1600/036364414X680816
-#  image: "images/MtRainier cushion plants.jpg"
   date: 2014-6-1
 
 - id: doi:10.1007/s11252-012-0250-7
-#  image: "images/MtRainier cushion plants.jpg"
   date: 2012-7-12
   tags:
     - urban
