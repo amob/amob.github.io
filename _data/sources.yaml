@@ -1,5 +1,5 @@
 - id: doi:10.1101/2022.02.10.479958
-  image: images/HighPark Duckweed.jpg
+  image: https://amob.github.io/images/HighPark Duckweed.jpg
   date: 2022-2-11
   tags:
     - preprint
@@ -19,7 +19,7 @@
     - opinion
 
 - id: doi:10.1016/j.envres.2021.111727
-  image: images/Duckweed in plate.jpg
+  image: https://amob.github.io/images/Duckweed in plate.jpg
   date: 2022-1-1
   tags:
     - microplastics
@@ -70,14 +70,14 @@
     - experimental evolution
 
 - id: doi:10.1007/s00248-019-01452-1
-  image: "images/Yellow Creek Duckweed.jpg"
+  image: https://amob.github.io/images/Yellow Creek Duckweed.jpg
   date: 2020-03-02
   tags:
     - plants and microbes
     - stress
 
 - id: doi:10.1002/ajb2.1404
-  image: "images/Yellow Creek duckweed view 2.jpg"
+  image: https://amob.github.io/images/Yellow Creek duckweed view 2.jpg
   date: 2019-12-26
   tags:
     - plants and microbes
@@ -98,7 +98,7 @@
     - plants and microbes
 
 - id: doi:10.1111/evo.13818
-  image: https://onlinelibrary.wiley.com/cms/asset/4df40449-a285-46d3-a6f3-f7c4162d44b9/evo.v73.11.cover.gif
+  image: https://amob.github.io/images/evo.v73.11.cover.gif
   date: 2019-08-07
   tags:
     - plant-rhizosphere
@@ -108,7 +108,7 @@
       link: https://doi.org/10.1111/evo.13857
 
 - id: doi:10.1086/700118
-  image: "images/MtRainier cushion plants.jpg"
+  image: https://amob.github.io/images/images/MtRainier cushion plants.jpg
   date: 2018-10-31
   tags:
     - mutualism
