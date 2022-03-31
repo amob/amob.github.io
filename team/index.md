@@ -8,6 +8,8 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 We are a brand new lab and looking for members! Please reach out to Anna if interested in joining. 
+<br>
+anna.obrien[at]unh.edu 
 
 
 <!-- 

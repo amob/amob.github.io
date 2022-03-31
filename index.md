@@ -4,7 +4,6 @@ title: Home
 
 # Host-microbiome interactions under stress
 
-This website is UNDER CONSTRUCTION. 
 How does the environment shape the outcome of adaptation in species interactions? 
 How do species interactions shape adaptation to stressful environments? 
 We study the interplay of stressors and microbiomes in shaping plant local adaptation and phenotypes.
