@@ -53,7 +53,7 @@
   date: '2022-01-01'
   link: https://doi.org/gpswfv
   orcid: 0000-0002-8455-8620
-  image: https://amob.github.io/images/Duckweed in plate.jpg
+  image: https://amob.github.io/images/Duckweed in plate.png
   tags:
   - microplastics
   - plants and microbes
@@ -71,6 +71,7 @@
   tags:
   - plants and microbes
   - microbial influence on traits
+  image: https://amob.github.io/images/Phenology Mt Rainier 2014.png
 - id: doi:10.1038/s41564-021-00957-1
   title: Host match improves root microbiome growth
   authors:
@@ -151,6 +152,7 @@
   orcid: 0000-0002-8455-8620
   tags:
   - plant-rhizosphere
+  image: https://amob.github.io/images/MC teosinte.jpg
 - id: doi:10.1126/science.abb7222
   title: Experimental evolution makes microbes more cooperative with their local host
     genotype
@@ -239,7 +241,7 @@
   date: '2019-08-07'
   link: https://doi.org/gn6m8k
   orcid: 0000-0002-8455-8620
-  image: https://amob.github.io/images/evo.v73.11.cover.gif
+  image: https://amob.github.io/images/covers/evo.v73.11.cover.gif
   tags:
   - plant-rhizosphere
   - microbial influence on traits
@@ -258,7 +260,7 @@
   date: 1900-1-1
   link: https://doi.org/gfqjnm
   orcid: 0000-0002-8455-8620
-  image: https://amob.github.io/images/images/MtRainier cushion plants.jpg
+  image: https://amob.github.io/images/MtRainier cushion plants.jpg
   tags:
   - mutualism
   - co-adaptation
@@ -315,3 +317,4 @@
   tags:
   - urban
   - stress
+  image: https://amob.github.io/images/ForestShoresView.jpg
