@@ -17,7 +17,7 @@
     - opinion
 
 - id: doi:10.1016/j.envres.2021.111727
-  image: https://amob.github.io/images/Duckweed in plate.jpg
+  image: https://amob.github.io/images/Duckweed in plate.png
   date: 2022-1-1
   tags:
     - microplastics
@@ -25,6 +25,7 @@
 
 - id: doi:10.1002/ajb2.1743
   date: 2021-10-16
+  image: https://amob.github.io/images/Phenology Mt Rainier 2014.png
   tags:
     - plants and microbes
     - microbial influence on traits
@@ -51,6 +52,7 @@
 
 - id: doi:10.1101/2021.04.20.440703 
   date: 2021-4-2
+  image: https://amob.github.io/images/MC teosinte.jpg
   tags:
     - plant-rhizosphere
    
@@ -87,7 +89,7 @@
     - plants and microbes
 
 - id: doi:10.1111/evo.13818
-  image: https://amob.github.io/images/evo.v73.11.cover.gif
+  image: https://amob.github.io/images/covers/evo.v73.11.cover.gif
   date: 2019-8-7
   tags:
     - plant-rhizosphere
@@ -97,7 +99,7 @@
       link: https://doi.org/10.1111/evo.13857
 
 - id: doi:10.1086/700118
-  image: https://amob.github.io/images/images/MtRainier cushion plants.jpg
+  image: https://amob.github.io/images/MtRainier cushion plants.jpg
   date: 2018-10-31
   tags:
     - mutualism
@@ -114,6 +116,7 @@
 
 - id: doi:10.1007/s11252-012-0250-7
   date: 2012-7-12
+  image: https://amob.github.io/images/ForestShoresView.jpg
   tags:
     - urban
     - stress
