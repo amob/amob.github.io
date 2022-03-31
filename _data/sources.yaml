@@ -23,12 +23,14 @@
     - microplastics
     - plants and microbes
 
+
 - id: doi:10.1002/ajb2.1743
+  image: https://amob.github.io/images/Phenology Mt Rainier2014.png
   date: 2021-10-16
-  image: https://amob.github.io/images/Phenology Mt Rainier 2014.png
   tags:
     - plants and microbes
     - microbial influence on traits
+
 
 - id: doi:10.1038/s41564-021-00957-1
   date: 2021-8-18
@@ -70,7 +72,7 @@
     - stress
 
 - id: doi:10.1002/ajb2.1404
-  image: https://amob.github.io/images/Yellow Creek duckweed view 2.jpg
+  image: https://amob.github.io/images/Yellow Creek duckweed view2.jpg
   date: 2019-12-26
   tags:
     - plants and microbes
@@ -98,13 +100,15 @@
     - type: journal
       link: https://doi.org/10.1111/evo.13857
 
+
 - id: doi:10.1086/700118
-  image: https://amob.github.io/images/MtRainier cushion plants.jpg
   date: 2018-10-31
+  image: https://amob.github.io/images/MtRainier cushion plants.jpg
   tags:
     - mutualism
     - co-adaptation
     - stress
+
 
 - id: doi:10.1371/journal.pone.0127630
   date: 2015-5-28
