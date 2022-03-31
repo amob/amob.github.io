@@ -1,63 +1,295 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1021/acs.est.1c03922
+  title: 'Nanoplastic State and Fate in Aquatic Environments: Multiscale Modeling'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Tiago F. Lins
+  - "Anna M. O\u2019Brien"
+  - Mohammad Zargartalebi
+  - David Sinton
+  publisher: Environmental Science &amp; Technology
+  date: '2022-03-19'
+  link: https://doi.org/gpswfr
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1101/2022.02.10.479958
+  title: "Having the \u2018right\u2019 microbiome matters for host trait expression\
+    \ and the strength of mutualism between duckweeds and microbes"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - "Anna M. O\u2019Brien"
+  - Jason Laurich
+  - Megan E. Frederickson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-11'
+  link: https://doi.org/gpswfs
+  orcid: 0000-0002-8455-8620
+- id: doi:10.7554/elife.76105
+  title: Why do sunflowers have invisible colors?
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Jason Laurich
+  - Anna M O'Brien
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  date: '2022-01-21'
+  link: https://doi.org/gpswft
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1016/j.envres.2021.111727
+  title: 'Microplastics shift impacts of climate change on a plant-microbe mutualism:
+    Temperature, CO2, and tire wear particles'
+  authors:
+  - Anna M. O'Brien
+  - Tiago F. Lins
+  - Yamin Yang
+  - Megan E. Frederickson
+  - David Sinton
+  - Chelsea M. Rochman
+  publisher: Environmental Research
+  date: '2022-01-01'
+  link: https://doi.org/gpswfv
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1101/2020.05.19.105098
+  title: 'A common contaminant shifts impacts of climate change on a plant-microbe
+    mutualism: effects of temperature, CO2 and leachate from tire wear particles'
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Tiago F. Lins
+  - Yamin Yang
+  - Megan E. Frederickson
+  - David Sinton
+  - Chelsea M. Rochman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-25'
+  link: https://doi.org/gpswfw
+  orcid: 0000-0002-8455-8620
+- id: doi:10.32942/osf.io/exadg
+  title: Microbial effects on plant phenology and fitness
+  authors:
+  - Anna O'Brien
+  - Nichole Ginnan
+  - Maria Rebolleda-Gomez
+  - Maggie R Wagner
+  publisher: Center for Open Science
+  date: '2021-02-26'
+  link: https://doi.org/gpswfx
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1002/ajb2.1743
+  title: Microbial effects on plant phenology and fitness
+  authors:
+  - Anna M. O'Brien
+  - Nichole A. Ginnan
+  - "Mar\xEDa Rebolleda\u2010G\xF3mez"
+  - Maggie R. Wagner
+  publisher: American Journal of Botany
+  date: '2021-10-01'
+  link: https://doi.org/gnpvnb
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1038/s41564-021-00957-1
+  title: Host match improves root microbiome growth
+  authors:
+  - "A. M. O\u2019Brien"
+  - T. L. Harrison
+  publisher: Nature Microbiology
+  date: '2021-08-18'
+  link: https://doi.org/gmn53h
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1002/etc.5140
+  title: A Deep Dive into the Complex Chemical Mixture and Toxicity of Tire Wear Particle
+    Leachate in Fathead Minnow
+  authors:
+  - Leah Chibwe
+  - Joanne L. Parrott
+  - Kallie Shires
+  - Hufsa Khan
+  - Stacey Clarence
+  - Christine Lavalle
+  - Cheryl Sullivan
+  - Anna M. O'Brien
+  - Amila O. De Silva
+  - Derek C.G. Muir
+  - Chelsea M. Rochman
+  publisher: Environmental Toxicology and Chemistry
+  date: '2021-08-02'
+  link: https://doi.org/gpswfz
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1021/acsestwater.1c00090
+  title: Effects of Hydrogen Peroxide on Cyanobacterium <i>Microcystis aeruginosa</i>
+    in the Presence of Nanoplastics
+  authors:
+  - Yawen Guo
+  - "Anna M. O\u2019Brien"
+  - Tiago F. Lins
+  - "Ren\xE9 Sahba Shahmohamadloo"
+  - Xavier Ortiz Almirall
+  - Chelsea M. Rochman
+  - David Sinton
+  publisher: ACS ES&amp;T Water
+  date: '2021-06-17'
+  link: https://doi.org/gpswf2
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1101/2021.04.20.440703
+  title: Strengthened mutualistic adaptation between teosinte and its rhizosphere
+    biota in cold climates
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Ruairidh J.H. Sawers
+  - Jaime Gasca-Pineda
+  - Ivan Baxter
+  - Luis E. Eguiarte
+  - Jeffrey Ross-Ibarra
+  - Sharon Y. Strauss
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-04-22'
+  link: https://doi.org/gpswf3
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1098/rspb.2020.2483
+  title: Whose trait is it anyways? Coevolution of joint phenotypes and genetic architecture
+    in mutualisms
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Chandra N. Jack
+  - Maren L. Friesen
+  - Megan E. Frederickson
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2021-01-13'
+  link: https://doi.org/gpswf4
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1126/science.abb7222
+  title: Experimental evolution makes microbes more cooperative with their local host
+    genotype
+  authors:
+  - Rebecca T. Batstone
+  - "Anna M. O\u2019Brien"
+  - Tia L. Harrison
+  - Megan E. Frederickson
+  publisher: Science
+  date: '2020-10-23'
+  link: https://doi.org/gpswf5
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1007/s00248-019-01452-1
+  title: Mutualistic Outcomes Across Plant Populations, Microbes, and Environments
+    in the Duckweed Lemna minor
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Jason Laurich
+  - Emma Lash
+  - Megan E. Frederickson
+  publisher: Microbial Ecology
+  date: '2020-03-02'
+  link: https://doi.org/gpswf6
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1002/ajb2.1404
+  title: Resilience to multiple stressors in an aquatic plant and its microbiome
+  authors:
+  - Anna M. O'Brien
+  - Zhu Hao Yu
+  - "Dian\u2010ya Luo"
+  - Jason Laurich
+  - Elodie Passeport
+  - Megan E. Frederickson
+  publisher: American Journal of Botany
+  date: '2019-12-26'
+  link: https://doi.org/gnmtdn
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1021/acs.est.9b07040
+  title: 'Biological Responses to Climate Change and Nanoplastics Are Altered in Concert:
+    Full-Factor Screening Reveals Effects of Multiple Stressors on Primary Producers'
+  authors:
+  - Yamin Yang
+  - Yawen Guo
+  - "Anna M. O\u2019Brien"
+  - Tiago F. Lins
+  - Chelsea M. Rochman
+  - David Sinton
+  publisher: Environmental Science &amp; Technology
+  date: '2020-01-27'
+  link: https://doi.org/gpswf7
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1111/evo.13818
+  title: Adaptive phenotypic divergence in an annual grass differs across biotic contexts*
+  authors:
+  - Anna M. O'Brien
+  - Ruairidh J.H. Sawers
+  - Sharon Y. Strauss
+  - "Jeffrey Ross\u2010Ibarra"
+  publisher: Evolution
+  date: '2019-08-26'
+  link: https://doi.org/gn6m8k
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1101/382770
+  title: Adaptive phenotypic divergence in an annual grass differs across biotic contexts
+  authors:
+  - Anna M O'Brien
+  - Ruairidh J.H. Sawers
+  - Sharon Y Strauss
+  - Jeffrey Ross-Ibarra
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-08-01'
+  link: https://doi.org/gkw32z
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1111/mec.15059
+  title: "Importance of plant\u2010 and microbe\u2010driven metabolic pathways for\
+    \ plant defence"
+  authors:
+  - Anna M. O'Brien
+  publisher: Molecular Ecology
+  date: '2019-04-01'
+  link: https://doi.org/gpswf8
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1086/700118
+  title: Evolutionary Responses to Conditionality in Species Interactions across Environmental
+    Gradients
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Ruairidh J. H. Sawers
+  - Jeffrey Ross-Ibarra
+  - Sharon Y. Strauss
+  publisher: The American Naturalist
+  date: '2018-12-01'
+  link: https://doi.org/gfqjnm
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1371/journal.pone.0127630
+  title: Candidatus Frankia Datiscae Dg1, the Actinobacterial Microsymbiont of Datisca
+    glomerata, Expresses the Canonical nod Genes nodABC in Symbiosis with Its Host
+    Plant
+  authors:
+  - Tomas Persson
+  - Kai Battenberg
+  - Irina V. Demina
+  - Theoden Vigil-Stenman
+  - Brian Vanden Heuvel
+  - Petar Pujic
+  - Marc T. Facciotti
+  - Elizabeth G. Wilbanks
+  - Anna O'Brien
+  - Pascale Fournier
+  - Maria Antonia Cruz Hernandez
+  - Alberto Mendoza Herrera
+  - "Claudine M\xE9digue"
+  - Philippe Normand
+  - Katharina Pawlowski
+  - Alison M. Berry
+  publisher: PLOS ONE
+  date: '2015-05-28'
+  link: https://doi.org/f3n8vw
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1600/036364414x680816
+  title: Resolving the Genera <I>Aloysia</I> and <I>Acantholippia</I> within tribe
+    Lantaneae (Verbenaceae), using Chloroplast and Nuclear Sequences
+  authors:
+  - Patricia Lu-Irving
+  - Nataly O'Leary
+  - Anna O'Brien
+  - Richard G. Olmstead
+  publisher: Systematic Botany
+  date: '2014-06-01'
+  link: https://doi.org/f55dfj
+  orcid: 0000-0002-8455-8620
+- id: doi:10.1007/s11252-012-0250-7
+  title: 'Conifer growth and reproduction in urban forest fragments: Predictors of
+    future responses to global change?'
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Ailene K. Ettinger
+  - Janneke HilleRisLambers
+  publisher: Urban Ecosystems
+  date: '2012-07-12'
+  link: https://doi.org/f4dzfz
+  orcid: 0000-0002-8455-8620
