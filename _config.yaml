@@ -23,16 +23,16 @@ links:
 
 # automatic citations
 auto-cite:
+ plugins:
+   - name: sources
+     input:
+       - ../_data/sources.yaml
+ output: ../_data/citations.yaml
 #  plugins:
-#    - name: sources
+#    - name: orcid
 #      input:
-#        - ../_data/sources.yaml
+#        - ../_data/orcid.yaml
 #  output: ../_data/citations.yaml
-  plugins:
-    - name: orcid
-      input:
-        - ../_data/orcid.yaml
-  output: ../_data/citations.yaml
 
 
 
