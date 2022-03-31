@@ -11,6 +11,22 @@ We are a brand new lab and looking for members! Please reach out to Anna if inte
 <br>
 anna.obrien[at]unh.edu 
 
+<br>
+
+###What does duckweed fieldwork look like?
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/Anna-sampling-duckweed.jpeg"
+
+  image2="images/Amanda Antoch sampling.jpg"
+
+  image3="images/Ethan Morgan sampling.jpg"
+
+%}
+
 
 <!-- 
 ## Funding
