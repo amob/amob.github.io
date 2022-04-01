@@ -13,7 +13,7 @@ anna.obrien[at]unh.edu
 
 <br>
 
-###What does duckweed fieldwork look like?
+## What does duckweed fieldwork look like?
 
 {%
   include gallery.html

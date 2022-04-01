@@ -50,7 +50,7 @@
     - microplastics
 
 - id: doi:10.1098/rspb.2020.2483
-  image: https://amob.github.io/images/covers/procBcov.jpg
+  image: https://amob.github.io/images/covers/procBcov.png
   date: 2021-1-13
   tags:
     - host-microbiome
@@ -122,6 +122,7 @@
     - plants and microbes
 
 - id: doi:10.1600/036364414X680816
+  image: https://amob.github.io/images/covers/systBotcov.gif
   date: 2014-6-1
 
 - id: doi:10.1007/s11252-012-0250-7
