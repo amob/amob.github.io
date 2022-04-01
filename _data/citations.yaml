@@ -65,7 +65,7 @@
   - "Mar\xEDa Rebolleda\u2010G\xF3mez"
   - Maggie R. Wagner
   publisher: American Journal of Botany
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gnpvnb
   orcid: 0000-0002-8455-8620
   tags:
@@ -83,6 +83,7 @@
   orcid: 0000-0002-8455-8620
   tags:
   - opinion
+  image: https://amob.github.io/images/covers/naturemicrobiol.png
 - id: doi:10.1021/acsestwater.1c00090
   title: Effects of Hydrogen Peroxide on Cyanobacterium <i>Microcystis aeruginosa</i>
     in the Presence of Nanoplastics
@@ -100,6 +101,7 @@
   orcid: 0000-0002-8455-8620
   tags:
   - nanoplastics
+  image: https://amob.github.io/images/covers/aewcaa.2021.1.issue-7.largecover.jpg
 - id: doi:10.1002/etc.5140
   title: A Deep Dive into the Complex Chemical Mixture and Toxicity of Tire Wear Particle
     Leachate in Fathead Minnow
@@ -135,6 +137,7 @@
   orcid: 0000-0002-8455-8620
   tags:
   - host-microbiome
+  image: https://amob.github.io/images/covers/procBcov.jpg
 - id: doi:10.1101/2021.04.20.440703
   title: Strengthened mutualistic adaptation between teosinte and its rhizosphere
     biota in cold climates
@@ -162,12 +165,13 @@
   - Tia L. Harrison
   - Megan E. Frederickson
   publisher: Science
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gpswf5
   orcid: 0000-0002-8455-8620
   tags:
   - plants and microbes
   - experimental evolution
+  image: https://amob.github.io/images/covers/science_batstone_cover.png
 - id: doi:10.1007/s00248-019-01452-1
   title: Mutualistic Outcomes Across Plant Populations, Microbes, and Environments
     in the Duckweed Lemna minor
@@ -218,6 +222,7 @@
   orcid: 0000-0002-8455-8620
   tags:
   - nanoplastics
+  image: https://amob.github.io/images/covers/esthag.2020.54.issue-4.largecover.jpg
 - id: doi:10.1111/mec.15059
   title: "Importance of plant\u2010 and microbe\u2010driven metabolic pathways for\
     \ plant defence"
@@ -230,6 +235,7 @@
   tags:
   - opinion
   - plants and microbes
+  image: https://amob.github.io/images/covers/mec14305-toc-0001-m.jpg
 - id: doi:10.1111/evo.13818
   title: Adaptive phenotypic divergence in an annual grass differs across biotic contexts*
   authors:
@@ -257,7 +263,7 @@
   - Jeffrey Ross-Ibarra
   - Sharon Y. Strauss
   publisher: The American Naturalist
-  date: 1900-1-1
+  date: '1900-01-01'
   link: https://doi.org/gfqjnm
   orcid: 0000-0002-8455-8620
   image: https://amob.github.io/images/MtRainier cushion plants.jpg
