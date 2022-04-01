@@ -26,18 +26,20 @@
 
 - id: doi:10.1002/ajb2.1743
   image: https://amob.github.io/images/Phenology Mt Rainier2014.png
-  date: 2021-10-16
+#  date: 2021-10-16
   tags:
     - plants and microbes
     - microbial influence on traits
 
 
 - id: doi:10.1038/s41564-021-00957-1
+  image: https://amob.github.io/images/covers/naturemicrobiol.png
   date: 2021-8-18
   tags:
     - opinion
    
 - id: doi:10.1021/acsestwater.1c00090
+  image: https://amob.github.io/images/covers/aewcaa.2021.1.issue-7.largecover.jpg
   date: 2021-6-17
   tags:
     - nanoplastics
@@ -48,6 +50,7 @@
     - microplastics
 
 - id: doi:10.1098/rspb.2020.2483
+  image: https://amob.github.io/images/covers/procBcov.jpg
   date: 2021-1-13
   tags:
     - host-microbiome
@@ -59,7 +62,8 @@
     - plant-rhizosphere
    
 - id: doi:10.1126/science.abb7222
-  date: 2020-10-23
+  image: https://amob.github.io/images/covers/science_batstone_cover.png
+#  date: 2020-10-23
   tags:
     - plants and microbes
     - experimental evolution
@@ -80,11 +84,13 @@
     - salt
 
 - id: doi:10.1021/acs.est.9b07040
+  image: https://amob.github.io/images/covers/esthag.2020.54.issue-4.largecover.jpg
   date: 2020-1-27
   tags:
     - nanoplastics
 
 - id: doi:10.1111/mec.15059
+  image: https://amob.github.io/images/covers/mec14305-toc-0001-m.jpg
   date: 2019-4-10
   tags:
     - opinion
@@ -102,7 +108,7 @@
 
 
 - id: doi:10.1086/700118
-  date: 2018-10-31
+#  date: 2018-10-31
   image: https://amob.github.io/images/MtRainier cushion plants.jpg
   tags:
     - mutualism
