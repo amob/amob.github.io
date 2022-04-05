@@ -10,6 +10,21 @@ header-dark: false
 footer-dark: false
 baseurl: ""
 
+
+nav:
+  - link: publications
+    tooltip: Published works
+  - research:
+    tooltip: Research interests
+  - teaching:
+    tooltip: Teaching
+  - link: team
+    tooltip: About our team
+  - link: news
+    tooltip: News and commentary
+  - link: contact
+    tooltip: Email, address, and location
+
 # site social media and other links
 links:
   email: anna.obrien@unh.edu
