@@ -72,7 +72,7 @@ Check out what has been happening
 {%
   include link.html
   link="blog"
-  text="Browse our recent posts"
+  text="Blog posts"
   icon="fas fa-arrow-right"
   flip=true
 %}
