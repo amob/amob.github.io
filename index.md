@@ -37,12 +37,22 @@ We study the interplay of stressors and microbiomes in shaping plant local adapt
 # Highlights
 
 {% capture text %}
-Browse our research publications.
+Browse our research.
+
+{%
+  include link.html
+  link="research"
+  text="See summarized research directions"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
 
 {%
   include link.html
   link="publications"
-  text="See what we've published"
+  text="Or browse what we've published"
   icon="fas fa-arrow-right"
   flip=true
 %}
