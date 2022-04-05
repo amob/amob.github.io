@@ -57,21 +57,6 @@
   tags:
   - microplastics
   - plants and microbes
-- id: doi:10.1002/ajb2.1743
-  title: Microbial effects on plant phenology and fitness
-  authors:
-  - Anna M. O'Brien
-  - Nichole A. Ginnan
-  - "Mar\xEDa Rebolleda\u2010G\xF3mez"
-  - Maggie R. Wagner
-  publisher: American Journal of Botany
-  date: '1900-01-01'
-  link: https://doi.org/gnpvnb
-  orcid: 0000-0002-8455-8620
-  tags:
-  - plants and microbes
-  - microbial influence on traits
-  image: https://amob.github.io/images/Phenology Mt Rainier2014.png
 - id: doi:10.1038/s41564-021-00957-1
   title: Host match improves root microbiome growth
   authors:
@@ -137,7 +122,7 @@
   orcid: 0000-0002-8455-8620
   tags:
   - host-microbiome
-  image: https://amob.github.io/images/covers/procBcov.jpg
+  image: https://amob.github.io/images/covers/procBcov.png
 - id: doi:10.1101/2021.04.20.440703
   title: Strengthened mutualistic adaptation between teosinte and its rhizosphere
     biota in cold climates
@@ -156,22 +141,6 @@
   tags:
   - plant-rhizosphere
   image: https://amob.github.io/images/MC teosinte.jpg
-- id: doi:10.1126/science.abb7222
-  title: Experimental evolution makes microbes more cooperative with their local host
-    genotype
-  authors:
-  - Rebecca T. Batstone
-  - "Anna M. O\u2019Brien"
-  - Tia L. Harrison
-  - Megan E. Frederickson
-  publisher: Science
-  date: '1900-01-01'
-  link: https://doi.org/gpswf5
-  orcid: 0000-0002-8455-8620
-  tags:
-  - plants and microbes
-  - experimental evolution
-  image: https://amob.github.io/images/covers/science_batstone_cover.png
 - id: doi:10.1007/s00248-019-01452-1
   title: Mutualistic Outcomes Across Plant Populations, Microbes, and Environments
     in the Duckweed Lemna minor
@@ -254,23 +223,6 @@
   extra-links:
   - type: journal
     link: https://doi.org/10.1111/evo.13857
-- id: doi:10.1086/700118
-  title: Evolutionary Responses to Conditionality in Species Interactions across Environmental
-    Gradients
-  authors:
-  - "Anna M. O\u2019Brien"
-  - Ruairidh J. H. Sawers
-  - Jeffrey Ross-Ibarra
-  - Sharon Y. Strauss
-  publisher: The American Naturalist
-  date: '1900-01-01'
-  link: https://doi.org/gfqjnm
-  orcid: 0000-0002-8455-8620
-  image: https://amob.github.io/images/MtRainier cushion plants.jpg
-  tags:
-  - mutualism
-  - co-adaptation
-  - stress
 - id: doi:10.1371/journal.pone.0127630
   title: Candidatus Frankia Datiscae Dg1, the Actinobacterial Microsymbiont of Datisca
     glomerata, Expresses the Canonical nod Genes nodABC in Symbiosis with Its Host
@@ -309,6 +261,7 @@
   publisher: Systematic Botany
   date: '2014-06-01'
   link: https://doi.org/f55dfj
+  image: https://amob.github.io/images/covers/systBotcov.gif
 - id: doi:10.1007/s11252-012-0250-7
   title: 'Conifer growth and reproduction in urban forest fragments: Predictors of
     future responses to global change?'

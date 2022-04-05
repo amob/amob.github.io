@@ -24,12 +24,12 @@
     - plants and microbes
 
 
-- id: doi:10.1002/ajb2.1743
-  image: https://amob.github.io/images/Phenology Mt Rainier2014.png
-#  date: 2021-10-16
-  tags:
-    - plants and microbes
-    - microbial influence on traits
+#- id: doi:10.1002/ajb2.1743
+#  image: https://amob.github.io/images/Phenology Mt Rainier2014.png
+##  date: 2021-10-16
+#  tags:
+#    - plants and microbes
+#    - microbial influence on traits
 
 
 - id: doi:10.1038/s41564-021-00957-1
@@ -50,7 +50,7 @@
     - microplastics
 
 - id: doi:10.1098/rspb.2020.2483
-  image: https://amob.github.io/images/covers/procBcov.jpg
+  image: https://amob.github.io/images/covers/procBcov.png
   date: 2021-1-13
   tags:
     - host-microbiome
@@ -61,12 +61,12 @@
   tags:
     - plant-rhizosphere
    
-- id: doi:10.1126/science.abb7222
-  image: https://amob.github.io/images/covers/science_batstone_cover.png
-#  date: 2020-10-23
-  tags:
-    - plants and microbes
-    - experimental evolution
+#- id: doi:10.1126/science.abb7222
+#  image: https://amob.github.io/images/covers/science_batstone_cover.png
+##  date: 2020-10-23
+#  tags:
+#    - plants and microbes
+#    - experimental evolution
 
 - id: doi:10.1007/s00248-019-01452-1
   image: https://amob.github.io/images/Yellow Creek Duckweed.jpg
@@ -107,13 +107,13 @@
       link: https://doi.org/10.1111/evo.13857
 
 
-- id: doi:10.1086/700118
-#  date: 2018-10-31
-  image: https://amob.github.io/images/MtRainier cushion plants.jpg
-  tags:
-    - mutualism
-    - co-adaptation
-    - stress
+#- id: doi:10.1086/700118
+##  date: 2018-10-31
+#  image: https://amob.github.io/images/MtRainier cushion plants.jpg
+#  tags:
+#    - mutualism
+#    - co-adaptation
+#    - stress
 
 
 - id: doi:10.1371/journal.pone.0127630
@@ -122,6 +122,7 @@
     - plants and microbes
 
 - id: doi:10.1600/036364414X680816
+  image: https://amob.github.io/images/covers/systBotcov.gif
   date: 2014-6-1
 
 - id: doi:10.1007/s11252-012-0250-7
