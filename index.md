@@ -47,7 +47,6 @@ Browse our research.
   flip=true
 %}
 {:.center}
-{% endcapture %}
 
 {%
   include link.html
