@@ -90,7 +90,7 @@ Check out what has been happening
 
 
 {% capture text %}
-We are a new and growing team - and looking for new members! Please get in touch with Anna if interested.
+We are a new and growing team - and looking for new members! Please get in touch with Anna if interested in joining as a Masters, PhD, or undergraduate student.
 
 {%
   include link.html
