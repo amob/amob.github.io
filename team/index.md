@@ -38,33 +38,6 @@ anna.obrien[at]unh.edu
 {:.center}
 
 {% include section.html %}
-<!-- 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: grad, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: researcher, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: undergrad, group: current"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: mascot, group: current"
-%}
- -->
-
 
 <!-- 
 ## Funding
