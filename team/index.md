@@ -33,9 +33,11 @@ anna.obrien[at]unh.edu
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi, group: current"
+  filters="role: pi"
 %}
 {:.center}
+
+{% include section.html %}
 <!-- 
 {%
   include list.html
