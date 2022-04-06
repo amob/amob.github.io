@@ -12,7 +12,7 @@ Anna's PhD work was at University of California Davis, in the [Ross-Ibarra](http
 
 <br>
 
-[A pdf of Anna's CV](pdfs/just_for_CV_updates.pdf)
+[A pdf of Anna's CV](cvs/just_for_CV_updates.pdf)
 
 <!-- 
 aliases:
