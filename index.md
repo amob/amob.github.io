@@ -90,7 +90,7 @@ Check out what has been happening
 
 
 {% capture text %}
-We are a new and growing team.
+We are a new and growing team - and looking for new members! Please get in touch with Anna if interested.
 
 {%
   include link.html

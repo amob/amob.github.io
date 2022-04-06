@@ -3,10 +3,6 @@ name: Anna O'Brien
 image: images/Annabalcony.png
 description: Assistant Professor
 role: pi
-aliases:
-  - A. O'Brien
-  - AM O'Brien
-  - Anna M O'Brien
 ---
 
 Anna is an Assistant Professor at the University of New Hampshire, Department of Molecular, Cellular and Biomedical Sciences as of March 2022. 
@@ -16,4 +12,11 @@ Anna's PhD work was at University of California Davis, in the [Ross-Ibarra](http
 
 <br>
 
-[A pdf of Anna's CV]((https://amob.github.io/pdfs/just_for_CV_updates.pdf))
+[A pdf of Anna's CV](pdfs/just_for_CV_updates.pdf)
+
+<!-- 
+aliases:
+  - A. O'Brien
+  - AM O'Brien
+  - Anna M O'Brien
+ -->
