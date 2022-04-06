@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 2
   tooltip: About our team
 ---
 
@@ -26,6 +26,42 @@ anna.obrien[at]unh.edu
   image3="images/Ethan Morgan sampling.jpg"
 
 %}
+
+
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pi, group: current"
+%}
+{:.center}
+<!-- 
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: grad, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: researcher, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: undergrad, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: mascot, group: current"
+%}
+ -->
 
 
 <!-- 
