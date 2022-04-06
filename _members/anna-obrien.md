@@ -12,11 +12,5 @@ Anna's PhD work was at University of California Davis, in the [Ross-Ibarra](http
 
 <br>
 
-[A pdf of Anna's CV](cvs/just_for_cv_updates.pdf)
+[A pdf of Anna's CV](cvs/obrien_cv.pdf)
 
-<!-- 
-aliases:
-  - A. O'Brien
-  - AM O'Brien
-  - Anna M O'Brien
- -->
