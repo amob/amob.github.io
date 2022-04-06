@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: About our team
+  tooltip: Project summaries
 ---
 
 
