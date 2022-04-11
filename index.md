@@ -41,7 +41,7 @@ Browse our research.
 
 {%
   include link.html
-  link="research"
+  link="labresearch"
   text="See summarized research directions"
   icon="fas fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@ Browse our research.
 
 {%
   include link.html
-  link="publications"
+  link="research"
   text="Or browse what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -61,7 +61,7 @@ Browse our research.
 {%
   include feature.html
   image="images/HighPark Duckweed.jpg"
-  link="publications"
+  link="labresearch"
   title="Our Publications"
   text=text
 %}
