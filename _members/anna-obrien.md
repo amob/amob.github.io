@@ -2,6 +2,7 @@
 name: Anna O'Brien
 image: images/Annabalcony.png
 description: Assistant Professor
+role: pi
 ---
 
 Anna is an Assistant Professor at the University of New Hampshire, Department of Molecular, Cellular and Biomedical Sciences as of March 2022. 
