@@ -1,5 +1,5 @@
 ---
-title: Leveraging methods used in ecology to inform microplastics sampling and subsampling
+title: Harnessing duckweed-microbiome variation for biotransformation
 tags:
   - plants and microbes
   - urban ecology
