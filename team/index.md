@@ -21,13 +21,26 @@ anna.obrien[at]unh.edu
 
   image1="images/Anna-sampling-duckweed.jpeg"
 
-  image2="images/Amanda Antoch sampling.jpg"
-
-  image3="images/Ethan Morgan sampling.jpg"
+  image2="images/Ethan Morgan sampling.jpg"
 
 %}
 
+Right: Anna sampling duckweeds in Ontario.
+Left: UNH undergraduate student & lab member Ethan Morgan sampling duckweeds in Durham, NH.
 
+
+
+
+## What does duckweed labwork look like?
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/20220927_AlexAndAva.jpg"
+
+%}
+
+UNH undergraduate students & lab members Ava Rose and Alex Trott creating isogenic duckweed lines.
 
 {%
   include list.html
