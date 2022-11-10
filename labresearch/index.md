@@ -10,8 +10,8 @@ nav:
 
 The newly founded O'Brien lab is gearing up to work on two major themes.
 
-1. _The seasonal and lifetime dynamics of host-associated microbiomes across changes in stress_ 
-We will be working with local study systems, including the floating plant duckweed (_Lemna minor_) in ponds of Durham, New Hampshire.
+1. _The seasonal dynamics of host-associated microbiomes_ 
+We will be working with local study systems. A team of O'Brien lab UNH undergraduate students (Alex Trott, Ava Rose, and Ethan Morgan) is working to understand seasonal and watershed variation in microbiomes of the floating plant duckweed (_Lemna minor_) in ponds of Durham, New Hampshire.
 
 2. _Experimental evolution of plant-associated microbiomes_ We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
 We will be selecting on disease resistance, or other agriculturally valuable traits.
