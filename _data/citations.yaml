@@ -1,19 +1,85 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1101/2022.02.10.479958
-  title: "Having the \u2018right\u2019 microbiome matters for host trait expression\
-    \ and the strength of mutualism between duckweeds and microbes"
+- id: doi:10.1016/j.chemosphere.2022.136772
+  title: Representative subsampling methods for the chemical identification of microplastic
+    particles in environmental samples
   authors:
+  - Hannah De Frond
+  - Anna M. O'Brien
+  - Chelsea M. Rochman
+  publisher: Chemosphere
+  date: '2023-01-11'
+  link: https://doi.org/gq7nvv
+  image: https://amob.github.io/images/covers/chemosphere.gif
+  tags:
+  - microplastics
+  - stress
+- id: doi:10.1101/2022.09.28.509964
+  title: Accelerated High-throughput Plant Imaging and Phenotyping System
+  authors:
+  - Talha Kose
+  - Tiago F. Lins
+  - Jessie Wang
   - "Anna M. O\u2019Brien"
-  - Jason Laurich
+  - David Sinton
   - Megan E. Frederickson
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-11'
-  link: https://doi.org/gpswfs
-  orcid: 0000-0002-8455-8620
-  image: https://amob.github.io/images/HighPark Duckweed.jpg
+  date: '2022-09-22'
+  link: https://doi.org/gq7nvw
+  image: https://amob.github.io/images/Duckweed in plate.png
   tags:
-  - preprint
+  - plants and microbes
+  - automation
+  - microbial influence on traits
+- id: doi:10.1016/j.watres.2022.118926
+  title: Harnessing plant-microbiome interactions for bioremediation across a freshwater
+    urbanization gradient
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Zhu Hao Yu
+  - Clara Pencer
+  - Megan E. Frederickson
+  - Gregory H. LeFevre
+  - Elodie Passeport
+  publisher: Water Research
+  date: '2022-09-01'
+  link: https://doi.org/gq7nvx
+  image: https://amob.github.io/images/covers/waterresearch.gif
+  tags: &id001
+  - plants and microbes
+  - urban
+  - microbial influence on traits
+  - bioremediation
+- id: doi:10.1039/D2EN00123C
+  title: Toxicity of nanoplastics to zooplankton is influenced by temperature, salinity,
+    and natural particulate matter
+  authors:
+  - Tiago F. Lins
+  - Anna M. O'Brien
+  - Talha Kose
+  - Chelsea M. Rochman
+  - David Sinton
+  publisher: 'Environmental Science: Nano'
+  date: '2022-06-23'
+  link: https://doi.org/gq7nvz
+  image: https://amob.github.io/images/covers/EnvSciNano.gif
+  tags:
+  - nanoplastics
+- id: doi:10.1016/j.watres.2022.118926
+  title: Harnessing plant-microbiome interactions for bioremediation across a freshwater
+    urbanization gradient
+  authors:
+  - "Anna M. O\u2019Brien"
+  - Zhu Hao Yu
+  - Clara Pencer
+  - Megan E. Frederickson
+  - Gregory H. LeFevre
+  - Elodie Passeport
+  publisher: Water Research
+  date: '2022-09-01'
+  link: https://doi.org/gq7nvx
+  image: https://amob.github.io/images/covers/waterresearch.gif
+  tags: *id001
 - id: doi:10.1021/acs.est.1c03922
   title: 'Nanoplastic State and Fate in Aquatic Environments: Multiscale Modeling'
   authors:
@@ -268,7 +334,6 @@
   - mutualism
   - co-adaptation
   - stress
-  date: '2018-09-25'
 - id: doi:10.1371/journal.pone.0127630
   title: Candidatus Frankia Datiscae Dg1, the Actinobacterial Microsymbiont of Datisca
     glomerata, Expresses the Canonical nod Genes nodABC in Symbiosis with Its Host
