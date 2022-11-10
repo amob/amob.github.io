@@ -30,7 +30,7 @@
   tags:
   - plants and microbes
   - automation
-  - microbial influence on traits
+  - preprint
 - id: doi:10.1016/j.watres.2022.118926
   title: Harnessing plant-microbiome interactions for bioremediation across a freshwater
     urbanization gradient
@@ -44,8 +44,8 @@
   publisher: Water Research
   date: '2022-09-01'
   link: https://doi.org/gq7nvx
-  image: https://amob.github.io/images/covers/waterresearch.gif
-  tags: &id001
+  image: https://amob.github.io/images/HighPark Duckweed.jpg
+  tags:
   - plants and microbes
   - urban
   - microbial influence on traits
@@ -65,21 +65,6 @@
   image: https://amob.github.io/images/covers/EnvSciNano.gif
   tags:
   - nanoplastics
-- id: doi:10.1016/j.watres.2022.118926
-  title: Harnessing plant-microbiome interactions for bioremediation across a freshwater
-    urbanization gradient
-  authors:
-  - "Anna M. O\u2019Brien"
-  - Zhu Hao Yu
-  - Clara Pencer
-  - Megan E. Frederickson
-  - Gregory H. LeFevre
-  - Elodie Passeport
-  publisher: Water Research
-  date: '2022-09-01'
-  link: https://doi.org/gq7nvx
-  image: https://amob.github.io/images/covers/waterresearch.gif
-  tags: *id001
 - id: doi:10.1021/acs.est.1c03922
   title: 'Nanoplastic State and Fate in Aquatic Environments: Multiscale Modeling'
   authors:
