@@ -1,5 +1,37 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1093/evolut/qpad183
+  title: 'Evolutionary consequences of microbiomes for hosts: impacts on host fitness,
+    traits, and heritability'
+  authors:
+  - "Anna M O\u2019Brien"
+  - Jason R Laurich
+  - Megan E Frederickson
+  publisher: Evolution
+  date: 1900-1-1
+  link: https://doi.org/gs497n
+  image: https://amob.github.io/images/evolutionGxGxE.jpg
+  tags:
+  - plants and microbes
+  - microbial influence on traits
+  - heritability in the microbiome
+  - GxGxE
+- id: doi:10.1371/journal.pone.0287739
+  title: Accelerated high-throughput imaging and phenotyping system for small organisms
+  authors:
+  - Talha Kose
+  - Tiago F. Lins
+  - Jessie Wang
+  - "Anna M. O\u2019Brien"
+  - David Sinton
+  - Megan E. Frederickson
+  publisher: PLOS ONE
+  date: '2023-07-21'
+  link: https://doi.org/gs497p
+  image: https://amob.github.io/images/Duckweed in plate.png
+  tags:
+  - plants and microbes
+  - automation
 - id: doi:10.1016/j.chemosphere.2022.136772
   title: Representative subsampling methods for the chemical identification of microplastic
     particles in environmental samples
@@ -14,23 +46,6 @@
   tags:
   - microplastics
   - stress
-- id: doi:10.1101/2022.09.28.509964
-  title: Accelerated High-throughput Plant Imaging and Phenotyping System
-  authors:
-  - Talha Kose
-  - Tiago F. Lins
-  - Jessie Wang
-  - "Anna M. O\u2019Brien"
-  - David Sinton
-  - Megan E. Frederickson
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-09-22'
-  link: https://doi.org/gq7nvw
-  image: https://amob.github.io/images/Duckweed in plate.png
-  tags:
-  - plants and microbes
-  - automation
-  - preprint
 - id: doi:10.1016/j.watres.2022.118926
   title: Harnessing plant-microbiome interactions for bioremediation across a freshwater
     urbanization gradient
