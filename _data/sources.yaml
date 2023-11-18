@@ -1,17 +1,25 @@
+- id: doi:10.1093/evolut/qpad183
+  image: https://amob.github.io/images/evolutionGxGxE.jpg
+  date: 2023-10-13
+  tags:
+    - plants and microbes
+    - microbial influence on traits
+    - heritability in the microbiome
+    - GxGxE
+
+- id: doi:10.1371/journal.pone.0287739
+  image: https://amob.github.io/images/Duckweed in plate.png
+  date: 2023-7-21
+  tags:
+    - plants and microbes
+    - automation
+    
 - id: doi:10.1016/j.chemosphere.2022.136772
   image: https://amob.github.io/images/covers/chemosphere.gif
   date: 2023-1-11
   tags:
     - microplastics
     - stress
-
-- id: doi:10.1101/2022.09.28.509964 
-  image: https://amob.github.io/images/Duckweed in plate.png
-  date: 2022-9-22
-  tags:
-    - plants and microbes
-    - automation
-    - preprint
 
 - id: doi:10.1016/j.watres.2022.118926
   image: https://amob.github.io/images/HighPark Duckweed.jpg
