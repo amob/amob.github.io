@@ -46,7 +46,6 @@ UNH undergraduate students & lab members Ava Rose and Alex Trott creating isogen
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
 %}
 {:.center}
 
