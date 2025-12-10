@@ -1,6 +1,6 @@
 ---
 name: Ciana Lazu
-image: 
+image: images/CianaLazuIMG_9240.jpeg
 description: Master's student
 role: masters
 ---

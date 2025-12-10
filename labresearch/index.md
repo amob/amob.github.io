@@ -8,10 +8,11 @@ nav:
 
 # New projects: 
 
-1. _Experimental evolution of plant-associated microbiomes_ We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
+1. _Experimental evolution of plant-associated microbiomes_ 
+We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
 We select on duckweed growth rates in different conditions, or with different, synthetically combined, starting microbiomes (Emma Kinerson, Ciana Lazu). So far, we have found that starting microbiomes including microbes from very closely related (another duckweed) or very distantly related (a floating liverwort) improve responses to microbiome "breeding" in duckweeds.
 
-2._Duckweed green manures
+2._Duckweed green manures_
 We have found (like others) that duckweed applied as a soil amendment can improve the growth of plants, and that duckweeds paired with microbes from farm ponds are very effective at removing phosphorus from pond water. This suggests that duckweeds could be great at recapturing runoff nutrients, reducing fertilizer loss and nutrient pollution. However, we have also found that cyanobacteria associated with duckweeds may transfer toxins into green manure materials, which is a safety concern. (Alyssa Daigle, Matthew Farbaniec).
 
 3. _The seasonal dynamics of host-associated microbiomes_ 
