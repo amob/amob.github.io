@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-We are a brand new lab and looking for members! Please reach out to Anna if interested in joining. 
+We are always looking for new members! Please reach out to Anna if interested in joining. 
 <br>
 anna.obrien[at]unh.edu 
 
@@ -41,6 +41,21 @@ Left: UNH undergraduate student & lab member Ethan Morgan sampling duckweeds in 
 %}
 
 UNH undergraduate students & lab members Ava Rose and Alex Trott creating isogenic duckweed lines.
+
+## O'Brien lab fun!
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/2025labpaintings.jpeg"
+  image3="images/20251209_takingcuttings.jpg" 
+  image3="images/20250515_graduation.jpg"
+  image4="images/labcoatIMG-20241213-WA0002.jpg" 
+
+%}
+
+Fun activities: telephone painting, taking cuttings of Anna's office plants, celebrating our graduates, and an example labcoat.
+
 
 {%
   include list.html

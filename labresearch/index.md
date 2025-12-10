@@ -6,15 +6,17 @@ nav:
 ---
 
 
-# New projects: dynamics of microbial ecology and evolution on hosts
+# New projects: 
 
-The newly founded O'Brien lab is gearing up to work on two major themes.
+1. _Experimental evolution of plant-associated microbiomes_ We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
+We select on duckweed growth rates in different conditions, or with different, synthetically combined, starting microbiomes (Emma Kinerson, Ciana Lazu). So far, we have found that starting microbiomes including microbes from very closely related (another duckweed) or very distantly related (a floating liverwort) improve responses to microbiome "breeding" in duckweeds.
 
-1. _The seasonal dynamics of host-associated microbiomes_ 
-We will be working with local study systems. A team of O'Brien lab UNH undergraduate students (Alex Trott, Ava Rose, and Ethan Morgan) is working to understand seasonal and watershed variation in microbiomes of the floating plant duckweed (_Lemna minor_) in ponds of Durham, New Hampshire.
+2._Duckweed green manures
+We have found (like others) that duckweed applied as a soil amendment can improve the growth of plants, and that duckweeds paired with microbes from farm ponds are very effective at removing phosphorus from pond water. This suggests that duckweeds could be great at recapturing runoff nutrients, reducing fertilizer loss and nutrient pollution. However, we have also found that cyanobacteria associated with duckweeds may transfer toxins into green manure materials, which is a safety concern. (Alyssa Daigle, Matthew Farbaniec).
 
-2. _Experimental evolution of plant-associated microbiomes_ We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
-We will be selecting on disease resistance, or other agriculturally valuable traits.
+3. _The seasonal dynamics of host-associated microbiomes_ 
+Working with local duckweeds, we have so far found that microbes isolated from the summer improve duckweed growth the most, and that there is a weak signal of local adaptation between duckweeds and microbes only in the context of their local water (Alex Trott, Ava Rose, Emma Kinerson, and Ethan Morgan). We are in the midst of some sequencing work! 
+
 
  
 # The novel stressors of global change and plant-microbe interactions
