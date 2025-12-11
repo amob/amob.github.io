@@ -67,8 +67,6 @@ Fun activities: telephone painting, taking cuttings of Anna's office plants, cel
 %}
 {:.center}
 
-{% include section.html %}
-
 ## Alumni!
 
 {%
