@@ -21,12 +21,13 @@ anna.obrien[at]unh.edu
 
   image1="images/Anna-sampling-duckweed.jpeg"
 
-  image2="images/Ethan Morgan sampling.jpg"
+  image2="images/MatthewinField.jpg"
+  
+  image3="images/CianainField.jpg"
 
 %}
 
-Right: Anna sampling duckweeds in Ontario.
-Left: UNH undergraduate student & lab member Ethan Morgan sampling duckweeds in Durham, NH.
+Anna, Matthew, and Ciana sampling duckweeds in the field.
 
 
 
@@ -37,10 +38,12 @@ Left: UNH undergraduate student & lab member Ethan Morgan sampling duckweeds in 
   style="square"
 
   image1="images/20220927_AlexAndAva.jpg"
+  image2="images/AlyssaBSC.jpg"
+  image3="images/HTimaging.jpg"
 
 %}
 
-UNH undergraduate students & lab members Ava Rose and Alex Trott creating isogenic duckweed lines.
+Lab members Ava and Alex creating isogenic duckweed lines, Alyssa working with cyanobacteria, and Ciana and Anna running the imaging system.
 
 ## O'Brien lab fun!
 {%
@@ -48,7 +51,7 @@ UNH undergraduate students & lab members Ava Rose and Alex Trott creating isogen
   style="square"
 
   image1="images/2025labpaintings.jpeg"
-  image3="images/20251209_takingcuttings.jpg" 
+  image2="images/20251209_takingcuttings.jpg" 
   image3="images/20250515_graduation.jpg"
   image4="images/labcoatIMG-20241213-WA0002.jpg" 
 
@@ -56,10 +59,21 @@ UNH undergraduate students & lab members Ava Rose and Alex Trott creating isogen
 
 Fun activities: telephone painting, taking cuttings of Anna's office plants, celebrating our graduates, and an example labcoat.
 
-
+## Members!
 {%
   include list.html
   data="members"
+  component="portrait"
+%}
+{:.center}
+
+{% include section.html %}
+
+## Alumni!
+
+{%
+  include list.html
+  data="alumni"
   component="portrait"
 %}
 {:.center}

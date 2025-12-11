@@ -6,23 +6,27 @@ nav:
 ---
 
 
-# New projects: 
+# Current projects: 
 
 1. _Experimental evolution of plant-associated microbiomes_ 
 We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
 We select on duckweed growth rates in different conditions, or with different, synthetically combined, starting microbiomes (Emma Kinerson, Ciana Lazu). So far, we have found that starting microbiomes including microbes from very closely related (another duckweed) or very distantly related (a floating liverwort) improve responses to microbiome "breeding" in duckweeds.
 
-2._Duckweed green manures_
+2. _Duckweed green manures_
 We have found (like others) that duckweed applied as a soil amendment can improve the growth of plants, and that duckweeds paired with microbes from farm ponds are very effective at removing phosphorus from pond water. This suggests that duckweeds could be great at recapturing runoff nutrients, reducing fertilizer loss and nutrient pollution. However, we have also found that cyanobacteria associated with duckweeds may transfer toxins into green manure materials, which is a safety concern. (Alyssa Daigle, Matthew Farbaniec).
 
 3. _The seasonal dynamics of host-associated microbiomes_ 
 Working with local duckweeds, we have so far found that microbes isolated from the summer improve duckweed growth the most, and that there is a weak signal of local adaptation between duckweeds and microbes only in the context of their local water (Alex Trott, Ava Rose, Emma Kinerson, and Ethan Morgan). We are in the midst of some sequencing work! 
 
+4. _Effects of hosts on microbiome recovery_
+Soil steaming kills both weed seeds and microbes, and offers a model to understand the effects of hosts on microbiome (re)assembly
 
  
-# The novel stressors of global change and plant-microbe interactions
+# Past projects
 
-_Urbanization of landscapes brings previously un-encountered stressors, from urban heat islands to chemical-laden surface runoff, and such novelty may perturb plant-microbe interactions._ 
+1. _The novel stressors of global change and plant-microbe interactions__
+
+Urbanization of landscapes brings previously un-encountered stressors, from urban heat islands to chemical-laden surface runoff, and such novelty may perturb plant-microbe interactions.
 Runoff contaminants disproportionately affect freshwater species, such as duckweed and its microbiome.
 Duckweed is tiny (fronds 2-5 mm) and reproduces rapidly (clonal generations in 3 days), making it highly amenable to experimentation.
 Duckweeds host a mutualistic and diverse microbiome, of which many species can be lab-cultured ([O'Brien et al, 2020](https://link.springer.com/article/10.1007/s00248-019-01452-1)), facilitating microbiome manipulation.
@@ -48,7 +52,7 @@ However, we also found that a globally ubiquitous microplastic (tire wear partic
 
 
 
-# Joint influences of biotic and abiotic context on evolutionary responses
+2. _Joint influences of biotic and abiotic context on evolutionary responses__
 
 With the explosion of research in microbiome science, we have become aware that microbes alter the expression of host traits (e.g. plant phenology, [O'Brien et al, 2021](https://doi.org/10.1002/ajb2.1743)) -- but what does this mean for the evolution of such traits?
 With co-authors, we leveraged theoretical simulations to show that _microbes can evolve substantial contributions to, and genetic variation for, host traits_ as a result of impacts of host fitness on their own fitness, or because traits separately influence their fitness.
@@ -84,7 +88,7 @@ My co-authors and I predicted the evolutionary consequences of interaction outco
 _We posited that as interactions shift towards more positive fitness outcomes for both partners in stressful environments, selection will favor mutualistic adaptation and co-adaptation_: 
 genetic variants in a focal species that increase fitness of a partner will indirectly positively affect their own fitness, and thus increase in frequency. 
 We then used teosinte and its associated rhizosphere biota as an experimental test: asking whether mutualistic local adaptation between teosinte and rhizosphere biota is stronger in stressful sites. 
-We indeed found increased local adaptation between plants and biota from stressful sites, but biota from stressful sites were not broadly mutualistic ([preprint here](https://doi.org/10.1101/2021.04.20.440703)).
+We indeed found increased local adaptation between plants and biota from stressful sites, but biota from stressful sites were not broadly mutualistic ([O'Brien et al, 2024](https://doi.org/10.1093/evolut/qpae130)).
 
 {% capture col1 %}
 {%
@@ -102,41 +106,3 @@ We indeed found increased local adaptation between plants and biota from stressf
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
 
-
-
-## What is teosinte?
-
-Teosinte is a wild relative of maize, that lives in the highlands of central Mexico. Like maize it is a C4 annual grass and colonist of disturbed open sites.
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/maize.jpg"
-  caption="Maize infructescence - a cob"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/teo-infructescence-seeds.jpg"
-  caption="Teosinte infructescence - shattering, separate fruits"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
-
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/Malinalco teosinte with root goo.jpg"
-  caption="Mucilaginous secretions from teosinte roots, also occurs in high elevation maize"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/malinalco-teosinte.jpeg"
-  caption="Teosinte at the archeological site in Malinalco, overlooking pyramids"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
