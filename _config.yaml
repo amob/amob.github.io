@@ -48,6 +48,11 @@ defaults:
       type: "members"
     values:
       layout: member
+  # markdown files in /_alumnis
+  - scope:
+      type: "alumnis"
+    values:
+      layout: alumni
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -57,6 +62,8 @@ defaults:
 # collections
 collections:
   members:
+    output: true
+  alumnis:
     output: true
 
 # sass settings

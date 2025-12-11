@@ -1,0 +1,57 @@
+{%- if include.style == "small" -%}
+  {%- assign width = 100 -%}
+{%- else -%}
+  {%- assign width = 150 -%}
+{%- endif -%}
+
+{%- assign emptyarray = "" | split: "," -%}
+{%- assign id = include.slug | default: include.id | default: "" -%}
+{%- assign alumnis = site.alumnis | default: emptyarray -%} 
+
+{%- assign alumni = nil -%}
+{%- for m in alumnis -%}
+  {%- if m.slug == id -%}
+    {%- assign alumni = m -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign url = alumni.url | default: "" -%}
+
+{::nomarkdown}
+<a {% if url %}href="{{ url | relative_url }}"{% endif %} class="portrait" style="--width: {{ width }}px">
+
+  {%- assign placeholder = "images/placeholder.svg" | relative_url -%}
+
+  {%- assign role = alumni.role | default: "" -%}
+  {%- if role -%}
+    {%- include role.html type=role -%}
+  {%- endif -%}
+  
+  {%- assign name = alumni.name | default: "" -%}
+  {%- assign image = alumni.image | default: "" -%}
+  <span class="portrait_image">
+    <img
+      src="{{ image | relative_url }}"
+      onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
+      loading="lazy"
+      alt="{{ name | default: 'Alumni portrait' }}"
+      width="100"
+      height="100"
+    >
+  </span>
+
+  {%- if name -%}
+    <span class="portrait_name">
+      {{ name }}
+    </span>
+  {%- endif -%}
+
+  {%- assign description = alumni.description | default: "" -%}
+  {%- if description -%}
+    <span class="portrait_description">
+      {{ description }}
+    </span>
+  {%- endif -%}
+
+</a>
+{:/}

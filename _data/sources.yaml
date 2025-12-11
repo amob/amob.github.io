@@ -1,3 +1,34 @@
+- id: doi:10.1101/2025.05.12.653557
+  image: https://amob.github.io/images/PossCover.jpg
+  date: 2025-9-25
+  tags:
+    - plants and microbes
+    - local adaptation
+
+- id: doi:10.1002/ece3.72211
+  image: https://amob.github.io/images/ThompsonFarmSeasons.001.jpeg
+  date: 2025-9-25
+  tags:
+    - plants and microbes
+    - phenology
+
+- id: doi:10.1093/evolut/qpae130
+  image: https://amob.github.io/images/teo-silk-purple.jpg
+  date: 2024-9-15
+  tags:
+    - plants and microbes
+    - local adaptation
+    - nutrients
+
+- id: doi:10.1128/mbio.00972-24
+  image: https://amob.github.io/images/MAX_ND_zoom.jpg
+  date: 2024-6-21
+  tags:
+    - plants and microbes
+    - synthetic communities
+    - community interactions
+    - diversity
+
 - id: doi:10.1093/evolut/qpad183
   image: https://amob.github.io/images/evolutionGxGxE.jpg
   date: 2023-9-31
@@ -84,12 +115,6 @@
   date: 2021-1-13
   tags:
     - host-microbiome
-
-- id: doi:10.1101/2021.04.20.440703 
-  date: 2021-4-2
-  image: https://amob.github.io/images/MC teosinte.jpg
-  tags:
-    - plant-rhizosphere
 
 - id: doi:10.1126/science.abb7222 
   date: 2020-9-23

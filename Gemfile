@@ -1,8 +1,12 @@
 source "https://rubygems.org"
 
+ruby "3.1.4"
+
 # jekyll
 gem "jekyll"
 gem "webrick", "~> 1.7"
+gem "csv"
+gem "psych", "~> 4.0"
 
 # plugins
 group :jekyll_plugins do

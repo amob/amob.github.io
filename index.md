@@ -6,7 +6,7 @@ title: Home
 
 How does the environment shape the outcome of adaptation in species interactions? 
 How do species interactions shape adaptation to stressful environments? 
-We study the interplay of stressors and microbiomes in shaping plant local adaptation and phenotypes.
+We study the interplay of stressors and microbiomes in shaping plant adaptation and phenotypes.
 <!-- 
 {%
   include link.html
@@ -60,7 +60,7 @@ Browse our research.
 
 {%
   include feature.html
-  image="images/HighPark Duckweed.jpg"
+  image="images/ViewSnapshot.jpg"
   link="labresearch"
   title="Our Publications"
   text=text
@@ -90,7 +90,7 @@ Check out what has been happening
 
 
 {% capture text %}
-We are a new and growing team - and looking for new members! Please get in touch with Anna if interested in joining as a Masters, PhD, or undergraduate student.
+We are always looking for new members who are a good fit for the lab! Please get in touch with Anna if interested in joining as a Masters, PhD, or undergraduate student.
 
 {%
   include link.html
@@ -104,7 +104,7 @@ We are a new and growing team - and looking for new members! Please get in touch
 
 {%
   include feature.html
-  image="images/cyanobacteria-on-lemna-frond-underside.jpg"
+  image="images/MAX_Duckweed.jpg"
   link="team"
   title="Our Team"
   text=text
