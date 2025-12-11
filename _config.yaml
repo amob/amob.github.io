@@ -63,6 +63,8 @@ defaults:
 collections:
   members:
     output: true
+  alumnis:
+    output: true
 
 # sass settings
 sass:
