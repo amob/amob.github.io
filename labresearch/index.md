@@ -8,7 +8,7 @@ nav:
 
 # Current projects: 
 
-1. _Experimental evolution of plant-associated microbiomes_ 
+_Experimental evolution of plant-associated microbiomes_ 
 We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
 We select on duckweed growth rates in different conditions, or with different, synthetically combined, starting microbiomes (Emma Kinerson, Ciana Lazu). So far, we have found that starting microbiomes including microbes from very closely related (another duckweed) or very distantly related (a floating liverwort) improve responses to microbiome "breeding" in duckweeds.
 
@@ -23,7 +23,7 @@ We select on duckweed growth rates in different conditions, or with different, s
 %}
 
 
-2. _Duckweed green manures_
+_Duckweed green manures_
 We have found (like others) that duckweed applied as a soil amendment can improve the growth of plants, and that duckweeds paired with microbes from farm ponds are very effective at removing phosphorus from pond water. This suggests that duckweeds could be great at recapturing runoff nutrients, reducing fertilizer loss and nutrient pollution. However, we have also found that cyanobacteria associated with duckweeds may transfer toxins into green manure materials, which is a safety concern. (Alyssa Daigle, Matthew Farbaniec).
 
 {%
@@ -37,14 +37,14 @@ We have found (like others) that duckweed applied as a soil amendment can improv
 %}
 
 
-3. _The seasonal dynamics of host-associated microbiomes_ 
+_The seasonal dynamics of host-associated microbiomes_ 
 Working with local duckweeds, we have so far found that microbes isolated from the summer improve duckweed growth the most, and that there is a weak signal of local adaptation between duckweeds and microbes only in the context of their local water (Alex Trott, Ava Rose, Emma Kinerson, and Ethan Morgan). We are in the midst of some sequencing work! 
 
 {%
   include gallery.html
   style="square"
 
-  image1="images/ThompsonFarmSeasons.001.jpg"
+  image1="images/ThompsonFarmSeasons.001.jpeg"
 
   image2="images/PossCover.jpg"
   
@@ -52,7 +52,7 @@ Working with local duckweeds, we have so far found that microbes isolated from t
   
 %}
 
-4. _Effects of hosts on microbiome recovery_
+_Effects of hosts on microbiome recovery_
 Soil steaming kills both weed seeds and microbes, and offers a model to understand the effects of hosts on microbiome (re)assembly
 {%
   include gallery.html
@@ -64,7 +64,7 @@ Soil steaming kills both weed seeds and microbes, and offers a model to understa
  
 # Past projects
 
-1. _The novel stressors of global change and plant-microbe interactions_
+_The novel stressors of global change and plant-microbe interactions_
 
 Urbanization of landscapes brings previously un-encountered stressors, from urban heat islands to chemical-laden surface runoff, and such novelty may perturb plant-microbe interactions.
 Runoff contaminants disproportionately affect freshwater species, such as duckweed and its microbiome.
@@ -92,7 +92,7 @@ However, we also found that a globally ubiquitous microplastic (tire wear partic
 
 
 
-2. _Joint influences of biotic and abiotic context on evolutionary responses_
+_Joint influences of biotic and abiotic context on evolutionary responses_
 
 With the explosion of research in microbiome science, we have become aware that microbes alter the expression of host traits (e.g. plant phenology, [O'Brien et al, 2021](https://doi.org/10.1002/ajb2.1743)) -- but what does this mean for the evolution of such traits?
 With co-authors, we leveraged theoretical simulations to show that _microbes can evolve substantial contributions to, and genetic variation for, host traits_ as a result of impacts of host fitness on their own fitness, or because traits separately influence their fitness.

@@ -1,6 +1,6 @@
 ---
 name: Admass Berisso
-image: images/AdmasPic.jpg{width=200px}
+image: images/AdmasPic.jpg
 description: PhD student
 role: phd
 ---
