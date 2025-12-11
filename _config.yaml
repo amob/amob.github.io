@@ -48,6 +48,11 @@ defaults:
       type: "members"
     values:
       layout: member
+  # markdown files in /_alumni
+  - scope:
+      type: "alumnis"
+    values:
+      layout: alumni
   # markdown files in /_posts
   - scope:
       type: "posts"

@@ -116,12 +116,6 @@
   tags:
     - host-microbiome
 
-- id: doi:10.1101/2021.04.20.440703 
-  date: 2021-4-2
-  image: https://amob.github.io/images/MC teosinte.jpg
-  tags:
-    - plant-rhizosphere
-
 - id: doi:10.1126/science.abb7222 
   date: 2020-9-23
   image: https://amob.github.io/images/covers/science_batstone_cover.png

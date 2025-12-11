@@ -1,5 +1,65 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
-
+- id: doi:10.1101/2025.05.12.653557
+  title: 'Observing weak adaptation of duckweeds to their local microbiome depends on local pondwater'
+  authors:
+  - Ava Rose
+  - "Anna M O\u2019Brien"
+  publisher: bioRxiv
+  date: '2025-09-25'
+  link: https://doi.org/10.1101/2025.05.12.653557
+  image: https://amob.github.io/images/PossCover.jpg
+  tags:
+  - plants and microbes
+  - local adaptation
+- id: doi:10.1002/ece3.72211
+  title: 'Seasonal Differences in Effects of Microbial Communities on Duckweed Traits'
+  authors:
+  - Emma Kinerson
+  - Alex Trott
+  - "Anna M O\u2019Brien"
+  publisher: Ecology and Evolution
+  date: '2025-09-25'
+  link: https://doi.org/10.1002/ece3.72211
+  image: https://amob.github.io/images/ThompsonFarmSeasons.001.jpeg
+  tags:
+  - plants and microbes
+  - phenology
+- id: doi:10.1093/evolut/qpae130
+  title: 'Teosinte populations exhibit weak local adaptation to their rhizosphere biota 
+    despite strong effects of biota source on teosinte fitness and traits'
+  authors:
+  - "Anna M O\u2019Brien"
+  - Ruairidh J H Sawers
+  - Jaime Gasca-Pineda
+  - Ivan Baxter
+  - Luis E Eguiarte
+  - Jeffrey Ross-Ibarra
+  - Sharon Y Strauss
+  publisher: Evolution
+  date: '2024-09-15'
+  link: https://doi.org/10.1093/evolut/qpae130
+  image: https://amob.github.io/images/teo-silk-purple.jpg
+  tags:
+  - plants and microbes
+  - local adaptation
+  - nutrients
+- id: doi:10.1128/mbio.00972-24
+  title: ''
+  authors:
+  - Jason R Laurich
+  - Emma Lash
+  - "Anna M O\u2019Brien"
+  - Oxana Pogoutse
+  - Megan E Frederickson
+  publisher: mBio
+  date: '2024-06-21'
+  link: https://doi.org/10.1128/mbio.00972-24
+  image: https://amob.github.io/images/MAX_ND_zoom.jpg
+  tags:
+  - plants and microbes
+  - synthetic communities
+  - community interactions
+  - diversity
 - id: doi:10.1093/evolut/qpad183
   title: 'Evolutionary consequences of microbiomes for hosts: impacts on host fitness,
     traits, and heritability'
@@ -203,24 +263,6 @@
   tags:
   - host-microbiome
   image: https://amob.github.io/images/covers/procBcov.png
-- id: doi:10.1101/2021.04.20.440703
-  title: Strengthened mutualistic adaptation between teosinte and its rhizosphere
-    biota in cold climates
-  authors:
-  - "Anna M. O\u2019Brien"
-  - Ruairidh J.H. Sawers
-  - Jaime Gasca-Pineda
-  - Ivan Baxter
-  - Luis E. Eguiarte
-  - Jeffrey Ross-Ibarra
-  - Sharon Y. Strauss
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-04-02'
-  link: https://doi.org/gpswf3
-  orcid: 0000-0002-8455-8620
-  tags:
-  - plant-rhizosphere
-  image: https://amob.github.io/images/MC teosinte.jpg
 - id: doi:10.1126/science.abb7222
   title: Experimental evolution makes microbes more cooperative with their local host
     genotype
