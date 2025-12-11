@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "webrick", "~> 1.7"
 gem "csv"
+gem "psych", "~> 4.0"
 
 # plugins
 group :jekyll_plugins do
