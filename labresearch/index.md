@@ -9,8 +9,11 @@ nav:
 # Current projects: 
 
 _Experimental evolution of plant-associated microbiomes_ 
+
+<div style="float: right;">
 We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
 We select on duckweed growth rates in different conditions, or with different, synthetically combined, starting microbiomes (Emma Kinerson, Ciana Lazu). So far, we have found that starting microbiomes including microbes from very closely related (another duckweed) or very distantly related (a floating liverwort) improve responses to microbiome "breeding" in duckweeds.
+</div>
 
 {%
   include gallery.html
@@ -19,11 +22,10 @@ We select on duckweed growth rates in different conditions, or with different, s
   image1="images/HTimaging.jpg" 
   
   image2="images/CianainField.jpg"
-  
-  caption="High-throughput duckweed imaging system and scientist walking in pond"
 
 %}
 
+Images: High-throughput duckweed imaging system and scientist walking in pond.
 
 _Duckweed green manures_
 We have found (like others) that duckweed applied as a soil amendment can improve the growth of plants, and that duckweeds paired with microbes from farm ponds are very effective at removing phosphorus from pond water. This suggests that duckweeds could be great at recapturing runoff nutrients, reducing fertilizer loss and nutrient pollution. However, we have also found that cyanobacteria associated with duckweeds may transfer toxins into green manure materials, which is a safety concern. (Alyssa Daigle, Matthew Farbaniec).
@@ -37,7 +39,7 @@ We have found (like others) that duckweed applied as a soil amendment can improv
   image2="images/AlyssaField.jpg"
   
 %}
-
+Images: Two O'Brien lab scientists sampling from duckweed ponds.
 
 _The seasonal dynamics of host-associated microbiomes_ 
 Working with local duckweeds, we have so far found that microbes isolated from the summer improve duckweed growth the most, and that there is a weak signal of local adaptation between duckweeds and microbes only in the context of their local water (Alex Trott, Ava Rose, Emma Kinerson, and Ethan Morgan). We are in the midst of some sequencing work! 
@@ -53,6 +55,8 @@ Working with local duckweeds, we have so far found that microbes isolated from t
   image3="images/Ethan Morgan sampling.jpg"
   
 %}
+Images: One pond pictured in 4 seasons, image of a duckweed pond, image of O'Brien lab member sampling duckweeds in winter.
+
 
 _Effects of hosts on microbiome recovery_
 Soil steaming kills both weed seeds and microbes, and offers a model to understand the effects of hosts on microbiome (re)assembly
@@ -61,9 +65,9 @@ Soil steaming kills both weed seeds and microbes, and offers a model to understa
   style="square"
 
   image1="images/steaming_20230801_171219-ezgif.com-video-to-gif-converter.gif"
-  caption="A student steaming soil with a car upholstery steamer"
 
 %}
+Image: A student steaming soil with a car upholstery steamer
  
 # Past projects
 
