@@ -16,9 +16,11 @@ We select on duckweed growth rates in different conditions, or with different, s
   include gallery.html
   style="square"
 
-  image1=<img src="images/HTimaging.jpg" alt="High-throughput imaging system for duckweeds">
+  image1="images/HTimaging.jpg" 
   
   image2="images/CianainField.jpg"
+  
+  caption="High-throughput duckweed imaging system and scientist walking in pond"
 
 %}
 
