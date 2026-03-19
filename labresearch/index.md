@@ -16,7 +16,7 @@ We select on duckweed growth rates in different conditions, or with different, s
   include gallery.html
   style="square"
 
-  image1="images/HTimaging.jpg"
+  image1=<img src="images/HTimaging.jpg" alt="High-throughput imaging system for duckweeds">
   
   image2="images/CianainField.jpg"
 
@@ -59,7 +59,8 @@ Soil steaming kills both weed seeds and microbes, and offers a model to understa
   style="square"
 
   image1="images/steaming_20230801_171219-ezgif.com-video-to-gif-converter.gif"
-  
+  caption="A student steaming soil with a car upholstery steamer"
+
 %}
  
 # Past projects
