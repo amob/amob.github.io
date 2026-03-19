@@ -6,8 +6,9 @@
     <img
       src="{{ include.image | relative_url }}"
       loading="lazy"
-      alt=""
+      alt="{{ include.description }}"
     />
+    <figcaption>{{ include.description }}</figcaption>
   </a>
   <div class="feature_text">
     {%- if include.title -%}
