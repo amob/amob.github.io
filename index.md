@@ -61,6 +61,7 @@ Browse our research.
 {%
   include feature.html
   image="images/ViewSnapshot.jpg"
+  description = "A duckweed root under the microscrope with many microbes"
   link="labresearch"
   title="Our Publications"
   text=text
@@ -82,6 +83,7 @@ Check out what has been happening
 {%
   include feature.html
   image="images/Putah Creek Tangled Bank Duckweed.jpg"
+  description = "Duckweeds at the side of a creek bank"
   link="blog"
   title="Browse our recent posts"
   flip=true
@@ -105,6 +107,7 @@ We are always looking for new members who are a good fit for the lab! Please get
 {%
   include feature.html
   image="images/MAX_Duckweed.jpg"
+  description = "A duckweed frond under the microscope"
   link="team"
   title="Our Team"
   text=text

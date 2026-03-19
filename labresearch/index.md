@@ -10,10 +10,8 @@ nav:
 
 _Experimental evolution of plant-associated microbiomes_ 
 
-<div style="float: right;">
 We aim to develop and test theoretical predictions on microbiome selection practices - which are the most effective? repeatable?.
 We select on duckweed growth rates in different conditions, or with different, synthetically combined, starting microbiomes (Emma Kinerson, Ciana Lazu). So far, we have found that starting microbiomes including microbes from very closely related (another duckweed) or very distantly related (a floating liverwort) improve responses to microbiome "breeding" in duckweeds.
-</div>
 
 {%
   include gallery.html
